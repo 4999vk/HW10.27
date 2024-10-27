@@ -4,6 +4,8 @@ public class ComparatorProductByRating implements Comparator<Product> {
 
     @Override
     public int compare(Product product1, Product product2) {
-        return product1.getRating() - product2.getRating();
+        return Double.compare(product1.getRating(),product2.getRating());
+       //
+        // return product1.getRating() - product2.getRating();
     }
 }

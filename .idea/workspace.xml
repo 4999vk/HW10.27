@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d56d174-8b1c-4ead-b6f2-150a65e36a68" name="Changes" comment="price">
-      <change afterPath="$PROJECT_DIR$/src/ComparatorProductByPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorProductByRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparatorProductByStock.java" afterDir="false" />
+    <list default="true" id="0d56d174-8b1c-4ead-b6f2-150a65e36a68" name="Changes" comment="double">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparatorProductByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorByPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorProductByPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparatorProductByPrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
     </list>
@@ -77,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730042146803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="double">
+      <option name="closed" value="true" />
+      <created>1730058332602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730058332602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,11 +90,32 @@
         <entry key="35ff765f-b6c1-4ce2-a9c2-70891478bcd7" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="35ff765f-b6c1-4ce2-a9c2-70891478bcd7">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="MAIN">
@@ -103,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="price" />
-    <option name="LAST_COMMIT_MESSAGE" value="price" />
+    <MESSAGE value="double" />
+    <option name="LAST_COMMIT_MESSAGE" value="double" />
   </component>
 </project>

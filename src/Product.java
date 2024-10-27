@@ -1,10 +1,10 @@
 public class Product {
     public String name;
-    public int price;
-    public int rating;
+    public double price;
+    public double rating;
     public int stock;
 
-    public Product(String name, int price, int rating, int stock){
+    public Product(String name, double price, double rating, int stock){
         this.name = name;
         this.price = price;
         this.rating = rating;
@@ -23,10 +23,10 @@ public class Product {
     public String getName(){
         return name;
     }
-    public  int getPrice(){
+    public  double getPrice(){
         return price;
     }
-    public int getRating(){
+    public double getRating(){
         return rating;
     }
     public int getStock(){

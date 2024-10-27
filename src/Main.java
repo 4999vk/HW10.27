@@ -12,11 +12,11 @@ public class Main {
 
 
                 new Product("Milk",2,2,5),
-                new Product("Milk",3,5,2),
+                new Product("Milk",3.3,5,2),
                 new Product("Yogurt",5,4,3),
                 new Product("Cheese",2,1,1),
                 new Product("Ponchik",1,3,4),
-                new Product("Cheese",6,4,5)
+                new Product("Cheese",6,4.5,5)
         ));
 
         print(productList);
