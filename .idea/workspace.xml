@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d56d174-8b1c-4ead-b6f2-150a65e36a68" name="Changes" comment="double">
+    <list default="true" id="0d56d174-8b1c-4ead-b6f2-150a65e36a68" name="Changes" comment="enter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparatorProductByPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparatorProductByPrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730058332602</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="enter">
+      <option name="closed" value="true" />
+      <created>1730061239547</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730061239547</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="price" />
     <MESSAGE value="double" />
-    <option name="LAST_COMMIT_MESSAGE" value="double" />
+    <MESSAGE value="enter" />
+    <option name="LAST_COMMIT_MESSAGE" value="enter" />
   </component>
 </project>
